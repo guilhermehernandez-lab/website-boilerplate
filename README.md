@@ -1,4 +1,4 @@
-<img width="196" height="150" alt="website_boilerplate_structure" src="https://github.com/user-attachments/assets/d375aa2d-ce40-4589-9bb7-3e1d8b3f168e" /># Website Boilerplate
+# Website Boilerplate
 
 A clean and organized website boilerplate built entirely from the command line using Bash.
 
