@@ -8,7 +8,7 @@ A boilerplate is a pre-defined project structure that serves as a starting point
 
 ## Project Structure
 
-<img width="1170" height="943" alt="Captura de ecrã 2026-05-27 195142" src="https://github.com/user-attachments/assets/ba241a14-15c4-4188-8dfe-372d8d0c7ee2" />
+<img width="600" alt="Project Structure" src="https://github.com/user-attachments/assets/ba241a14-15c4-4188-8dfe-372d8d0c7ee2" />
 
 
 
